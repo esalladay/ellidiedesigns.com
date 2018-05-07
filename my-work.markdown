@@ -22,3 +22,5 @@ Google Doodles are always a joy for me to look at, and creating one made me see 
 Do you want your product to fit your site or do you fit your site to your product? In this project, I aimed for the latter, using a sole pair of boots in a simple and clean layout that showcased the product quickly and stylishly. 
 
 
+
+
