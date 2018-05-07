@@ -13,5 +13,5 @@ This was my first project working with video and embedding it into the page with
 
 [Steampunk Google Doodle! ](https://esalladay.github.io/google-doodle/)
 
-Google Doodle's are always a joy for me to look at, and creating one made me see how challenging and complex they could be. My first doodle attempt was simple, but lacking  the aesthetic of Steampunk I wanted to encapsulate. My goal was to show a Steampunk city in motion and full of life. 
+Google Doodles are always a joy for me to look at, and creating one made me see how challenging and complex they could be. My first doodle attempt was simple, but lacking  the aesthetic of Steampunk I wanted to encapsulate. My goal was to show a Steampunk city in motion and full of life. 
 
