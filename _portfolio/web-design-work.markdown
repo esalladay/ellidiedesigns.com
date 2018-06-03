@@ -1,5 +1,5 @@
 ---
-title: Web Design Work
+title: Web Design
 date: 2018-05-21 17:34:00 Z
 ---
 
