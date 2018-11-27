@@ -9,7 +9,7 @@ html {
 } 
 
 nav.navbar {
-  background-color: #9E9E9E;
+  background-color: #212121;
 }
 
 body
@@ -58,7 +58,8 @@ ul.navbar-nav a:hover {
 }
 
 .bgcustom{
-  background-color:white;
+  background-color: #212121;
+  color: #FAFAFA !important;
 }
 
 #sc{
