@@ -183,3 +183,8 @@ i:hover{
 .fadeIn-top{
   top: 20%;
 }
+
+.pdf{
+  position: relative;
+  left: 200px;
+}
